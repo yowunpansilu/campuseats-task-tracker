@@ -1,0 +1,15 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "CampusEats task tracking application",
+  "main": "src/tasks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
